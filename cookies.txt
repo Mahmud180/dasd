@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+store.pixeledgebd.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+store.pixeledgebd.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_38660eb5efa9debe5f96586465158958	e6b6791eae7ebd91cad069bc5caa5e26%7C%7C1646562851%7C%7C1646559251%7C%7C09708546ca30820d753f2acd8acce058
+store.pixeledgebd.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	3b46731f45a673a23ac3903edd0bdc12
+
